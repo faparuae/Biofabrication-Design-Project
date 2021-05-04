@@ -6,3 +6,7 @@
 - [Cells](/Biofabrication-Design-Project/Cells)
 
 # Electrical
+
+# Electrical Wiring
+
+![Electrical Diagram](/Biofabrication-Design-Project/Electrical Flow Chart final.jpeg)
