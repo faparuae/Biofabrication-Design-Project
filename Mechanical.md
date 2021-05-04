@@ -22,7 +22,13 @@ Item         | Quantity
 [Linear Rod - 8mm - 200mm](https://www.mcmaster.com/6112K44/) | 1 
 [Hex Nut - M8](https://www.mcmaster.com/90592A022/) | 1 
 [Shaft Coupler](https://www.mcmaster.com/2464K19/) | 1 
-[Nema 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 1 
+[Nema 17 Stepper Motor](https://www.mcmaster.com/6627T66/) | 5 
 [T Nut and Bolt](https://www.mcmaster.com/47065T139/) | 6 
+[Ball bearing - 608](https://www.mcmaster.com/5972K91/) | 2 
+[GT2 Pulley](https://www.mcmaster.com/7769N25/) | 6
+[Linear Bearing - LM10LUU](https://www.amazon.com/LM10LUU-Linear-Motion-Bearing-Bushing/dp/B01IFDUJYA) | 2 
+[Heat Bed](https://www.amazon.com/Heatbed-Aluminum-Drucker-Printer-Thermistor/dp/B00TCL9OR8) | 1 
+
+
 
 ## Fusion 360 Model
