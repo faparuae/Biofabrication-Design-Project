@@ -41,12 +41,24 @@ Utilizing Good Manufacturing Practices, or GMPs, during the manufacture and use 
 Citations
 
 [Tisseel Product Overview](https://advancedsurgery.baxter.com/products/tisseel#:~:text=Mechanism%20of%20Action.%20Upon%20mixing%20Sealer%20Protein%20%28Human%29,has%20all%20relevant%20components%20to%20form%20a%20clot.)
+
+
 [Albanna et al. In Situ Bioprinting of Autologous Skin Cells Accelerates Wound Healing of Extensive Excisional Full-Thickness Wounds](https://pubmed.ncbi.nlm.nih.gov/30755653/)
+
+
 [Shinowara. Kinetics of Fibrinogen-Thrombin Reaction](https://www.sciencedirect.com/science/article/pii/S0926659366800759)
+
+
 [Agarwal et al. Keratinocytes' Response to Stress Source](https://pubmed.ncbi.nlm.nih.gov/30969461/)
+
+
 [Biasetti et al. Carreau-Yasuda Parameters for Human Blood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163425/)
+
+
 [Muller et al. Shear Stress Model Source](https://journals-plos-org.proxy.library.vanderbilt.edu/plosone/article?id=10.1371/journal.pone.0236371)
+
+
 [SafetyCulture: GMP Overview](https://safetyculture.com/topics/gmp/)
+
+
 [FDA: GMP Overview](https://www.fda.gov/drugs/pharmaceutical-quality-resources/facts-about-current-good-manufacturing-practices-cgmps)
-
-
