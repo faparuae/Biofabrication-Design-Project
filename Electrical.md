@@ -5,7 +5,6 @@
 - [Materials](/Biofabrication-Design-Project/Materials)
 - [Cells](/Biofabrication-Design-Project/Cells)
 
-# Electrical
 
 # Electrical Wiring
 
