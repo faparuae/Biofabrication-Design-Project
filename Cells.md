@@ -18,6 +18,7 @@ Autologous primary cells were chosen for a multitude of reasons. First, a large 
 Autologous primary cells were chosen over allogenic cells because allogenic cells can result in an immune response and rejection that would disrupt healing. In the study, *In Situ Bioprinting of Autologous Skin Cells Accelerates Wound Healing of Extensive Excisional Full-Thickness Wounds*, a murine full thickness excisional wound in mice was used to validate the bioprinting system. The study used primary hFBs and hKCs with a fibrinogen and thrombin gel system. The study found that human fibroblasts and keratinocytes were present in the dermis and epidermis of the wound 3 weeks and 6 weeks after printing. In the same study, a porcine full-thickness wound model was used to compare autologous cells, allogenic cells, and untreated wounds. From weeks 2, 3, 4, and 5 after the bioprinting treatment, it was found that the autologous cell-treated wounds closed rapidly, and the open wound area was much smaller than all of the other groups. The authors of the study concluded that in situ bioprinting of autologous cells resulted in approximately 3-week acceleration in wound closure compared to the other treatments. 
 
 Citations:
+
 Albanna, M., Binder, K.W., Murphy, S.V. et al. In Situ Bioprinting of Autologous Skin Cells Accelerates Wound Healing of Extensive Excisional Full-Thickness Wounds. Sci Rep 9, 1856 (2019). https://doi.org/10.1038/s41598-018-38366-w
 
 Atala, Anthony, and James J. Yoo. Essentials of 3D Biofabrication and Translation. Elsevier/Academic Press, 2015.
