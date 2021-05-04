@@ -9,4 +9,4 @@
 
 # Electrical Wiring
 
-![Electrical Diagram](/Biofabrication-Design-Project/Electrical Flow Chart final.jpeg)
+![Electrical Diagram](/Biofabrication-Design-Project/Electrical Flow Chart final.jpg)
