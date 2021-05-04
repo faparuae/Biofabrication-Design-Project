@@ -22,7 +22,7 @@ To determine the maximum flow rate achievable while maintaining a minimum thresh
 This model was developed by Müller et al. with the specific application of bioprinting in mind. The assumptions made by the authors to solve fluid flow equations include a cylindrical channel shape, a no-slip boundary condition, and a continuous shear rate. [(Müller et al.)](https://journals-plos-org.proxy.library.vanderbilt.edu/plosone/article?id=10.1371/journal.pone.0236371) However, the double-barreled syringe model used to mix the fibrinogen-containing and thrombin-containing components introduces some complexity into extrusion flow characteristics that is not fully accounted for by the model. Since cell viability is affected by the highest level of shear stress the cells experience as they travel through the length of the syringe, the smallest nozzle internal diameter of 2mm was used as a basis for determining the maximum shear stress and viability-affecting shear stress profile (since viscosity changes due to reactions are not considered.) The total flow rate of the mixed, extruded gel is therefore twice that determined as maximum within the Python calculations. Using this 2mm basis, the maximum flow rate of the fibrinogen-cellular gel component through the internal nozzle was determined to be 5.5x10^-5 mL/s. Relevant inputs were (flow rate, channel size, code conditions) The plot of shear stress versus distance from nozzle axis is shown below:
 
 
-![Shear Stress Profile](Biofabrication-Design-Project/shear-stress-profile-s21.png)
+![Shear Stress Profile](/shear-stress-profile-s21.png)
 
 
 The total volumetric flow rate extruded from the 6mm exterior nozzle is therefore twice this value, or 1.1x10^-4 mL/s.
